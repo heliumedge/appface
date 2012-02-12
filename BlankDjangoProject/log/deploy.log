@@ -1,0 +1,12 @@
+
+
+12/02/2012 03:50:04 --== Deploy begin ==-- 
+
+Requirement already satisfied (use --upgrade to upgrade): django in c:\python27\lib\site-packages (from -r requirements.txt (line 5))
+Cleaning up...
+Admin media files already copied
+Bye!
+
+
+12/02/2012 03:50:04 --== Deploy finished ==-- 
+
